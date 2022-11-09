@@ -2,16 +2,17 @@
 
     /* 상단 */
     .header_top {
-        width: 600px;
+        width: 450px;
     }
     .header_top ul li  {
-        font-size: 11px;
+        font-size: 10px;
+        margin-left: 12px;
     }
     .header_top ul li input {
-        width: 100px;
+        width: 50px;
     }
     .header_bottom {
-        width: 600px;
+        width: 450px;
         padding-top: 20px;
     }
     .header_bottom a img {
@@ -19,13 +20,15 @@
     }
 
     .nav {
-        width: 300px;
+        width: 220px;
     }
-
+    .nav li > a {
+        font-size: 12px;
+    }
 
     /* 메인 */
     #main {
-        width: 600px;
+        width: 450px;
         height: 900px;
     }
 
@@ -35,7 +38,7 @@
 
     .fade_btn {
         top: 800px;
-        left: 50px;
+        left: 20px;
     }
     .fade_btn div {
         color: #fff;
@@ -45,193 +48,205 @@
     }
 
     .fade1 {
-        width: 600px;
+        width: 450px;
     }
     .fade1 .fade_left {
-        height: 350px;
+        width: 270px;
+        height: 250px;
         position: absolute;
         top: -80px;
         left: 0px;
         z-index: 500;
         opacity: 0.8;
+        line-height: 60px;
         background-color: #fff;
     }
     .fade1 .fade_left p {
         font-size: 30px;
         font-weight: 900;
-        margin-left: 20px;
+        margin-left: 10px;
     }
     .fade1 .fade_left img {
-        width: 50px;
-        margin: 30px 0 0 20px;
+        width: 40px;
+        margin: 20px 0 0 10px;
     }
     .fade1 .fade_left span {
-        margin: 20px 20px 0 0;
+        margin: 10px 15px 0 0;
         color: #000;
     }
     .fade1 .fade_right {
         position: absolute;
         top: 0;
         left: 0;
-        width: 600px;
+        width: 450px;
+        height: 500px;
         float: none;
     }
 
-
     .fade2 {
-        width: 600px;
+        width: 450px;
     }
     .fade2 .fade_left {
-        height: 350px;
+        width: 270px;
+        height: 250px;
         position: absolute;
         top: -80px;
         left: 0px;
-        z-index: 500;
+        z-index: 400;
         opacity: 0.8;
+        line-height: 60px;
         background-color: #fff;
     }
     .fade2 .fade_left p {
         font-size: 30px;
         font-weight: 900;
-        margin-left: 20px;
+        margin-left: 10px;
     }
     .fade2 .fade_left h1 {
         font-size: 30px;
-        margin-left: 20px;
+        margin-left: 10px;
     }
     .fade2 .fade_left img {
-        width: 50px;
-        margin: 30px 0 0 20px;
+        width: 40px;
+        margin: 20px 0 0 10px;
     }
     .fade2 .fade_left span {
-        margin: 20px 30px 0 0;
+        margin: 10px 15px 0 0;
         color: #000;
     }
     .fade2 .fade_right {
         position: absolute;
         top: 0;
         left: 0;
-        width: 600px;
+        width: 450px;
+        height: 500px;
         float: none;
     }
 
-
     .fade3 {
-        width: 600px;
+        width: 450px;
     }
     .fade3 .fade_left {
-        height: 350px;
+        width: 270px;
+        height: 250px;
         position: absolute;
         top: -80px;
         left: 0px;
-        z-index: 500;
+        z-index: 300;
         opacity: 0.8;
+        line-height: 60px;
         background-color: #fff;
     }
     .fade3 .fade_left p {
         font-size: 30px;
         font-weight: 900;
-        margin-left: 20px;
+        margin-left: 10px;
     }
     .fade3 .fade_left h1 {
         font-size: 30px;
-        margin-left: 20px;
+        margin-left: 10px;
     }
     .fade3 .fade_left img {
-        width: 50px;
-        margin: 30px 0 0 20px;
+        width: 40px;
+        margin: 20px 0 0 10px;
     }
     .fade3 .fade_left span {
-        margin: 20px 70px 0 0;
+        margin: 10px 50px 0 0;
         color: #000;
     }
     .fade3 .fade_right {
         position: absolute;
         top: 0;
         left: 0;
-        width: 600px;
+        width: 450px;
+        height: 500px;
         float: none;
     }
 
-
     .fade4 {
-        width: 600px;
+        width: 450px;
     }
     .fade4 .fade_left {
-        height: 350px;
+        width: 270px;
+        height: 250px;
         position: absolute;
         top: -80px;
         left: 0px;
-        z-index: 500;
+        z-index: 200;
         opacity: 0.8;
+        line-height: 60px;
         background-color: #fff;
     }
     .fade4 .fade_left p {
         font-size: 30px;
         font-weight: 900;
-        margin-left: 20px;
+        margin-left: 10px;
     }
     .fade4 .fade_left h1 {
         font-size: 30px;
-        margin-left: 20px;
+        margin-left: 10px;
     }
     .fade4 .fade_left img {
-        width: 50px;
-        margin: 30px 0 0 20px;
+        width: 40px;
+        margin: 20px 0 0 10px;
     }
     .fade4 .fade_left span {
-        margin: 20px 30px 0 0;
+        margin: 10px 15px 0 0;
         color: #000;
     }
     .fade4 .fade_right {
         position: absolute;
         top: 0;
         left: 0;
-        width: 600px;
+        width: 450px;
+        height: 500px;
         float: none;
     }
 
     .fade5 {
-        width: 600px;
+        width: 450px;
     }
     .fade5 .fade_left {
-        height: 350px;
+        width: 270px;
+        height: 250px;
         position: absolute;
         top: -80px;
         left: 0px;
-        z-index: 500;
+        z-index: 100;
         opacity: 0.8;
+        line-height: 60px;
         background-color: #fff;
     }
     .fade5 .fade_left p {
         font-size: 30px;
         font-weight: 900;
-        margin-left: 20px;
+        margin-left: 10px;
     }
     .fade5 .fade_left h1 {
         font-size: 30px;
-        margin-left: 20px;
+        margin-left: 10px;
     }
     .fade5 .fade_left img {
-        width: 50px;
-        margin: 30px 0 0 20px;
+        width: 40px;
+        margin: 20px 0 0 10px;
     }
     .fade5 .fade_left span {
-        margin: 20px 40px 0 0;
+        margin: 10px 20px 0 0;
         color: #000;
     }
     .fade5 .fade_right {
         position: absolute;
         top: 0;
         left: 0;
-        width: 600px;
+        width: 450px;
+        height: 500px;
         float: none;
     }
 
     /* Task chair */
     #content1 {
-        width: 600px;
-        height: 1200px;
+        width: 450px;
+        height: 2700px;
     }
 
     .con1_title {
@@ -247,10 +262,10 @@
     }
 
     .con1_left {
-        width: 300px;
+        width: 450px;
     }
     .con1_left_1 img {
-        width: 280px;
+        width: 400px;
     }
 
     .con1_left_1 p {
@@ -261,7 +276,7 @@
     }
 
     .con1_left_2 img {
-        width: 280px;
+        width: 400px;
     }
     .con1_left_2 p {
         font-size: 30px;
@@ -271,11 +286,12 @@
     }
 
     .con1_right {
-        width: 300px;
+        width: 450px;
+        float: left;
     }
     
     .con1_right_1 img {
-        width: 280px;
+        width: 400px;
     }
     .con1_right_1 p {
         font-size: 30px;
@@ -284,8 +300,11 @@
         font-size: 14px;
     }
 
+    .con1_left_2 {
+        margin-bottom: 80px;
+    }
     .con1_right_2 img {
-        width: 280px;
+        width: 400px;
     }
     .con1_right_2 p {
         font-size: 30px;
@@ -296,12 +315,16 @@
 
     /* Kids chair */
     #content2 {
-        width: 600px;
-        height: 750px;
+        width: 450px;
+        height: 2100px;
     }
-  
+    
+    .con2_box {
+        display: block;
+    }
     .con2_box_1 {
-        width: 190px;
+        width: 350px;
+        margin: 0 0 80px 50px;
     }
     .con2_box_1 p {
         font-size: 30px;
@@ -311,7 +334,8 @@
     }
 
     .con2_box_2 {
-        width: 190px;
+        width: 350px;
+        margin: 0 0 80px 50px;
     }
     .con2_box_2 p {
         font-size: 30px;
@@ -321,7 +345,8 @@
     }
 
     .con2_box_3 {
-        width: 190px;
+        width: 350px;
+        margin: 0 0 80px 50px;
     }
     .con2_box_3 p {
         font-size: 30px;
@@ -332,12 +357,16 @@
 
     /* Interior chair */
     #content3 {
-        width: 600px;
-        height: 750px;
+        width: 450px;
+        height: 2100px;
     }
-  
+    
+    .con3_box {
+        display: block;
+    }
     .con3_box_1 {
-        width: 190px;
+        width: 350px;
+        margin: 0 0 80px 50px;
     }
     .con3_box_1 p {
         font-size: 30px;
@@ -347,7 +376,8 @@
     }
 
     .con3_box_2 {
-        width: 190px;
+        width: 350px;
+        margin: 0 0 80px 50px;
     }
     .con3_box_2 p {
         font-size: 30px;
@@ -357,7 +387,8 @@
     }
 
     .con3_box_3 {
-        width: 190px;
+        width: 350px;
+        margin: 0 0 80px 50px;
     }
     .con3_box_3 p {
         font-size: 30px;
@@ -366,6 +397,7 @@
         font-size: 14px;
     }
 
+
     /* more */
     #content4 {
         width: 100%;
@@ -373,30 +405,31 @@
     }
 
     .news{
-        width: 600px;
+        width: 450px;
     }
     .news ul li h3 {
-        width: 120px;
-        padding: 18px 0 0 35px;
-        font-size: 16px;
+        width: 80px;
+        padding: 20px 0 0 20px;
+        font-size: 14px;
     }
     .news ul li p {
-        margin-left: 50px;
-      
+        margin-left: 15px;
+        padding: 20px 20px 0 0;
+        font-size: 12px;
     }
     .news ul li a {
-        margin-left: 60px;
+        margin-left: 20px;
     }
 
     .sns{
-        width: 600px;
+        width: 450px;
     }
     .sns ul li {
-        width: 110px;
+        width: 80px;
     }
 
     .blog{
-        width: 600px;
+        width: 450px;
         height: 360px;
         margin: 0 auto;
         margin-top: 80px;
@@ -404,10 +437,10 @@
     }
 
     .blog_left h3 {
-        font-size: 15px;
+        font-size: 14px;
     }
     .blog_left h1 {
-        font-size: 20px;
+        font-size: 18px;
     }
     .blog_left p {
         font-size: 11px;
@@ -415,7 +448,7 @@
     .blog_right {
         width: 600px;
         height: 360px;
-        margin-top: 70px;
+        margin-top: 150px;
     }
     .blog_right img {
         width: 100%;
@@ -423,15 +456,15 @@
 
     /* 하단 */
     #footer {
-        height: 600px;
+        height: 580px;
     }
 
     .footer_top {
-        width: 600px;
+        width: 450px;
     }
    
     .footer_box {
-        width: 600px;
+        width: 450px;
     }
 
     .footer_left {
@@ -439,22 +472,22 @@
     }
 
     .footer_right {
-        width: 600px;
+        width: 450px;
     }
     .footer_right_t ul li {
-        padding-right: 30px;
+        padding-right: 10px;
     }
    
     .footer_right_list li ul {
-        padding-right: 20px;
+        padding-right: 8px;
     }
     .footer_right_list li ul li h4 {
-        font-size: 16px;
+        font-size: 11px;
     }
     .footer_right_list li ul li span {
-        font-size: 18px;
+        font-size: 13px;
     }
     .footer_right_list li ul li p {
-        font-size: 11px;
+        font-size: 6px;
     }
 }
