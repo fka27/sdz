@@ -1,0 +1,434 @@
+@media screen and (max-width: 1025px) {
+
+    /* 상단 */
+    .header_top {
+        width: 1000px;
+        height: 40px;
+        margin: 0 auto;
+    }
+    .header_top ul {
+        margin-right: 40px;
+    }
+
+    .header_bottom {
+        width: 1000px;
+    }
+    .header_bottom a img {
+        width: 80px;
+        margin-left: 40px;
+    }
+
+    .nav {
+        margin-right: 40px;
+    }
+
+    .sub_box2 {
+        left : -400px;
+    }
+
+    /* 메인 */
+    #main {
+        width: 920px;
+        height: 900px;
+    }
+
+    .fade {
+        height: 850px;
+    }
+
+    .fade_btn {
+        top: 800px;
+    }
+
+    .fade1 {
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 500;
+        width: 1000px;
+        height: 900px;
+    }
+    .fade1 .fade_left {
+        width: 300px;
+    }
+    .fade1 .fade_left p {
+        font-size: 40px;
+    }
+    .fade1 .fade_left img {
+        width: 85px;
+    }
+    .fade1 .fade_left span {
+        margin: 77px 10px 0 0;
+        font-size: 11px;
+    }
+    .fade1 .fade_right {
+        width: 620px;
+        height: 750px;
+        float: left;
+    }
+    .fade1 .fade_right img {
+        width: 100%;
+        height: 750px;
+        margin-top: 40px;
+    }
+
+
+    .fade2 {
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 400;
+        width: 1000px;
+        height: 900px;
+    }
+    .fade2 .fade_left {
+        width: 300px;
+    }
+    .fade2 .fade_left p {
+        font-size: 40px;
+    }
+    .fade2 .fade_left img {
+        width: 85px;
+    }
+    .fade2 .fade_left span {
+        margin: 77px 20px 0 0;
+        font-size: 11px;
+    }
+    .fade2 .fade_right {
+        width: 620px;
+        height: 750px;
+        float: left;
+    }
+    .fade2 .fade_right img {
+        width: 100%;
+        height: 750px;
+        margin-top: 40px;
+    }
+
+
+    .fade3 {
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 300;
+        width: 1000px;
+        height: 900px;
+    }
+    .fade3 .fade_left {
+        width: 300px;
+    }
+    .fade3 .fade_left p {
+        font-size: 40px;
+    }
+    .fade3 .fade_left img {
+        width: 85px;
+    }
+    .fade3 .fade_left span {
+        margin: 77px 60px 0 0;
+        font-size: 11px;
+    }
+    .fade3 .fade_right {
+        width: 620px;
+        height: 750px;
+        float: left;
+    }
+    .fade3 .fade_right img {
+        width: 100%;
+        height: 750px;
+        margin-top: 40px;
+    }
+
+
+    .fade4 {
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 200;
+        width: 1000px;
+        height: 900px;
+    }
+    .fade4 .fade_left {
+        width: 300px;
+    }
+    .fade4 .fade_left p {
+        font-size: 40px;
+    }
+    .fade4 .fade_left img {
+        width: 85px;
+    }
+    .fade4 .fade_left span {
+        margin: 77px 20px 0 0;
+        font-size: 11px;
+    }
+    .fade4 .fade_right {
+        width: 620px;
+        height: 750px;
+        float: left;
+    }
+    .fade4 .fade_right img {
+        width: 100%;
+        height: 750px;
+        margin-top: 40px;
+    }
+
+
+    .fade5 {
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 100;
+        width: 1000px;
+        height: 900px;
+    }
+    .fade5 .fade_left {
+        width: 300px;
+    }
+    .fade5 .fade_left p {
+        font-size: 40px;
+    }
+    .fade5 .fade_left img {
+        width: 85px;
+    }
+    .fade5 .fade_left span {
+        margin: 77px 20px 0 0;
+        font-size: 11px;
+    }
+    .fade5 .fade_right {
+        width: 620px;
+        height: 750px;
+        float: left;
+    }
+    .fade5 .fade_right img {
+        width: 100%;
+        height: 750px;
+        margin-top: 40px;
+    }
+
+    /* Task chair */
+    #content1 {
+        width: 920px;
+        height: 1600px;
+    }
+
+    .con1_title {
+        padding-top: 90px;
+    }
+    .con1_title h2 {
+        font-size: 30px;
+    }
+    .con1_title a {
+        padding-top: 20px;
+        font-size: 13px;
+        color: #002BD2;
+    }
+
+    .con1_left {
+        width: 450px;
+    }
+    .con1_left_1 img {
+        width: 410px;
+    }
+
+    .con1_left_1 p {
+        font-size: 40px;
+    }
+    .con1_left_1 span {
+        font-size: 20px;
+    }
+
+    .con1_left_2 img {
+        width: 410px;
+    }
+    .con1_left_2 p {
+        font-size: 40px;
+    }
+    .con1_left_2 span {
+        font-size: 20px;
+    }
+
+    .con1_right {
+        width: 450px;
+    }
+    
+    .con1_right_1 img {
+        width: 410px;
+    }
+    .con1_right_1 p {
+        font-size: 40px;
+    }
+    .con1_right_1 span {
+        font-size: 20px;
+    }
+
+    .con1_right_2 img {
+        width: 410px;
+    }
+    .con1_right_2 p {
+        font-size: 40px;
+    }
+    .con1_right_2 span {
+        font-size: 20px;
+    }
+
+    /* Kids chair */
+    #content2 {
+        width: 920px;
+        height: 800px;
+    }
+  
+    .con2_box_1 {
+        width: 300px;
+        height: 560px;
+    }
+    .con2_box_1 p {
+        font-size: 35px;
+    }
+    .con2_box_1 span {
+        font-size: 16px;
+    }
+
+    .con2_box_2 {
+        width: 300px;
+        height: 560px;
+    }
+    .con2_box_2 p {
+        font-size: 35px;
+    }
+    .con2_box_2 span {
+        font-size: 16px;
+    }
+
+    .con2_box_3 {
+        width: 300px;
+        height: 560px;
+    }
+    .con2_box_3 p {
+        font-size: 35px;
+    }
+    .con2_box_3 span {
+        font-size: 16px;
+    }
+
+    /* Interior chair */
+    #content3 {
+        width: 920px;
+        height: 800px;
+    }
+  
+    .con3_box_1 {
+        width: 300px;
+        height: 560px;
+    }
+    .con3_box_1 p {
+        font-size: 35px;
+    }
+    .con3_box_1 span {
+        font-size: 16px;
+    }
+
+    .con3_box_2 {
+        width: 300px;
+        height: 560px;
+    }
+    .con3_box_2 p {
+        font-size: 35px;
+    }
+    .con3_box_2 span {
+        font-size: 16px;
+    }
+
+    .con3_box_3 {
+        width: 300px;
+        height: 560px;
+    }
+    .con3_box_3 p {
+        font-size: 35px;
+    }
+    .con3_box_3 span {
+        font-size: 16px;
+    }
+
+    /* more */
+    #content4 {
+        width: 100%;
+        height: 800px;
+    }
+
+    .news{
+        width: 920px;
+    }
+    .news ul li p {
+        margin-left: 180px;
+      
+    }
+    .news ul li a {
+        margin-left: 210px;
+    }
+
+    .sns{
+        width: 920px;
+    }
+    .sns ul li {
+        width: 180px;
+    }
+
+    .blog{
+        width: 920px;
+        height: 360px;
+        margin: 0 auto;
+        margin-top: 80px;
+        display: flex;
+    }
+
+    .blog_left h3 {
+        font-size: 16px;
+    }
+    .blog_left h1 {
+        font-size: 25px;
+    }
+
+    .blog_right {
+        width: 650px;
+        height: 360px;
+    }
+    .blog_right img {
+        width: 100%;
+    }
+
+    /* 하단 */
+    #footer {
+        height: 600px;
+    }
+
+    .footer_top {
+        width: 960px;
+    }
+   
+    .footer_box {
+        width: 960px;
+    }
+
+    .footer_left {
+        width: 220px;
+    }
+    .footer_left p {
+        font-size: 11px;
+    }
+    .footer_left h4 {
+        font-size: 16px;
+    }
+
+    .footer_right {
+        width: 740px;
+    }
+    .footer_right_t ul li {
+        padding-right: 60px;
+    }
+   
+    .footer_right_list li ul {
+        padding-right: 25px;
+    }
+    .footer_right_list li ul li span {
+        font-size: 20px;
+    }
+}

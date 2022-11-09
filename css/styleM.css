@@ -1,0 +1,460 @@
+@media screen and (max-width: 651px) {
+
+    /* 상단 */
+    .header_top {
+        width: 600px;
+    }
+    .header_top ul li  {
+        font-size: 11px;
+    }
+    .header_top ul li input {
+        width: 100px;
+    }
+    .header_bottom {
+        width: 600px;
+        padding-top: 20px;
+    }
+    .header_bottom a img {
+        width: 70px;
+    }
+
+    .nav {
+        width: 300px;
+    }
+
+
+    /* 메인 */
+    #main {
+        width: 600px;
+        height: 900px;
+    }
+
+    .fade {
+        height: 850px;
+    }
+
+    .fade_btn {
+        top: 800px;
+        left: 50px;
+    }
+    .fade_btn div {
+        color: #fff;
+    }
+    .fade_btn div svg {
+        fill: #fff;
+    }
+
+    .fade1 {
+        width: 600px;
+    }
+    .fade1 .fade_left {
+        height: 350px;
+        position: absolute;
+        top: -80px;
+        left: 0px;
+        z-index: 500;
+        opacity: 0.8;
+        background-color: #fff;
+    }
+    .fade1 .fade_left p {
+        font-size: 30px;
+        font-weight: 900;
+        margin-left: 20px;
+    }
+    .fade1 .fade_left img {
+        width: 50px;
+        margin: 30px 0 0 20px;
+    }
+    .fade1 .fade_left span {
+        margin: 20px 20px 0 0;
+        color: #000;
+    }
+    .fade1 .fade_right {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 600px;
+        float: none;
+    }
+
+
+    .fade2 {
+        width: 600px;
+    }
+    .fade2 .fade_left {
+        height: 350px;
+        position: absolute;
+        top: -80px;
+        left: 0px;
+        z-index: 500;
+        opacity: 0.8;
+        background-color: #fff;
+    }
+    .fade2 .fade_left p {
+        font-size: 30px;
+        font-weight: 900;
+        margin-left: 20px;
+    }
+    .fade2 .fade_left h1 {
+        font-size: 30px;
+        margin-left: 20px;
+    }
+    .fade2 .fade_left img {
+        width: 50px;
+        margin: 30px 0 0 20px;
+    }
+    .fade2 .fade_left span {
+        margin: 20px 30px 0 0;
+        color: #000;
+    }
+    .fade2 .fade_right {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 600px;
+        float: none;
+    }
+
+
+    .fade3 {
+        width: 600px;
+    }
+    .fade3 .fade_left {
+        height: 350px;
+        position: absolute;
+        top: -80px;
+        left: 0px;
+        z-index: 500;
+        opacity: 0.8;
+        background-color: #fff;
+    }
+    .fade3 .fade_left p {
+        font-size: 30px;
+        font-weight: 900;
+        margin-left: 20px;
+    }
+    .fade3 .fade_left h1 {
+        font-size: 30px;
+        margin-left: 20px;
+    }
+    .fade3 .fade_left img {
+        width: 50px;
+        margin: 30px 0 0 20px;
+    }
+    .fade3 .fade_left span {
+        margin: 20px 70px 0 0;
+        color: #000;
+    }
+    .fade3 .fade_right {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 600px;
+        float: none;
+    }
+
+
+    .fade4 {
+        width: 600px;
+    }
+    .fade4 .fade_left {
+        height: 350px;
+        position: absolute;
+        top: -80px;
+        left: 0px;
+        z-index: 500;
+        opacity: 0.8;
+        background-color: #fff;
+    }
+    .fade4 .fade_left p {
+        font-size: 30px;
+        font-weight: 900;
+        margin-left: 20px;
+    }
+    .fade4 .fade_left h1 {
+        font-size: 30px;
+        margin-left: 20px;
+    }
+    .fade4 .fade_left img {
+        width: 50px;
+        margin: 30px 0 0 20px;
+    }
+    .fade4 .fade_left span {
+        margin: 20px 30px 0 0;
+        color: #000;
+    }
+    .fade4 .fade_right {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 600px;
+        float: none;
+    }
+
+    .fade5 {
+        width: 600px;
+    }
+    .fade5 .fade_left {
+        height: 350px;
+        position: absolute;
+        top: -80px;
+        left: 0px;
+        z-index: 500;
+        opacity: 0.8;
+        background-color: #fff;
+    }
+    .fade5 .fade_left p {
+        font-size: 30px;
+        font-weight: 900;
+        margin-left: 20px;
+    }
+    .fade5 .fade_left h1 {
+        font-size: 30px;
+        margin-left: 20px;
+    }
+    .fade5 .fade_left img {
+        width: 50px;
+        margin: 30px 0 0 20px;
+    }
+    .fade5 .fade_left span {
+        margin: 20px 40px 0 0;
+        color: #000;
+    }
+    .fade5 .fade_right {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 600px;
+        float: none;
+    }
+
+    /* Task chair */
+    #content1 {
+        width: 600px;
+        height: 1200px;
+    }
+
+    .con1_title {
+        padding-top: 90px;
+    }
+    .con1_title h2 {
+        font-size: 28px;
+    }
+    .con1_title a {
+        padding-top: 20px;
+        font-size: 12px;
+        color: #002BD2;
+    }
+
+    .con1_left {
+        width: 300px;
+    }
+    .con1_left_1 img {
+        width: 280px;
+    }
+
+    .con1_left_1 p {
+        font-size: 30px;
+    }
+    .con1_left_1 span {
+        font-size: 14px;
+    }
+
+    .con1_left_2 img {
+        width: 280px;
+    }
+    .con1_left_2 p {
+        font-size: 30px;
+    }
+    .con1_left_2 span {
+        font-size: 14px;
+    }
+
+    .con1_right {
+        width: 300px;
+    }
+    
+    .con1_right_1 img {
+        width: 280px;
+    }
+    .con1_right_1 p {
+        font-size: 30px;
+    }
+    .con1_right_1 span {
+        font-size: 14px;
+    }
+
+    .con1_right_2 img {
+        width: 280px;
+    }
+    .con1_right_2 p {
+        font-size: 30px;
+    }
+    .con1_right_2 span {
+        font-size: 14px;
+    }
+
+    /* Kids chair */
+    #content2 {
+        width: 600px;
+        height: 750px;
+    }
+  
+    .con2_box_1 {
+        width: 190px;
+    }
+    .con2_box_1 p {
+        font-size: 30px;
+    }
+    .con2_box_1 span {
+        font-size: 14px;
+    }
+
+    .con2_box_2 {
+        width: 190px;
+    }
+    .con2_box_2 p {
+        font-size: 30px;
+    }
+    .con2_box_2 span {
+        font-size: 14px;
+    }
+
+    .con2_box_3 {
+        width: 190px;
+    }
+    .con2_box_3 p {
+        font-size: 30px;
+    }
+    .con2_box_3 span {
+        font-size: 14px;
+    }
+
+    /* Interior chair */
+    #content3 {
+        width: 600px;
+        height: 750px;
+    }
+  
+    .con3_box_1 {
+        width: 190px;
+    }
+    .con3_box_1 p {
+        font-size: 30px;
+    }
+    .con3_box_1 span {
+        font-size: 14px;
+    }
+
+    .con3_box_2 {
+        width: 190px;
+    }
+    .con3_box_2 p {
+        font-size: 30px;
+    }
+    .con3_box_2 span {
+        font-size: 14px;
+    }
+
+    .con3_box_3 {
+        width: 190px;
+    }
+    .con3_box_3 p {
+        font-size: 30px;
+    }
+    .con3_box_3 span {
+        font-size: 14px;
+    }
+
+    /* more */
+    #content4 {
+        width: 100%;
+        height: 700px;
+    }
+
+    .news{
+        width: 600px;
+    }
+    .news ul li h3 {
+        width: 120px;
+        padding: 18px 0 0 35px;
+        font-size: 16px;
+    }
+    .news ul li p {
+        margin-left: 50px;
+      
+    }
+    .news ul li a {
+        margin-left: 60px;
+    }
+
+    .sns{
+        width: 600px;
+    }
+    .sns ul li {
+        width: 110px;
+    }
+
+    .blog{
+        width: 600px;
+        height: 360px;
+        margin: 0 auto;
+        margin-top: 80px;
+        display: flex;
+    }
+
+    .blog_left h3 {
+        font-size: 15px;
+    }
+    .blog_left h1 {
+        font-size: 20px;
+    }
+    .blog_left p {
+        font-size: 11px;
+    }
+    .blog_right {
+        width: 600px;
+        height: 360px;
+        margin-top: 70px;
+    }
+    .blog_right img {
+        width: 100%;
+    }
+
+    /* 하단 */
+    #footer {
+        height: 600px;
+    }
+
+    .footer_top {
+        width: 600px;
+    }
+   
+    .footer_box {
+        width: 600px;
+    }
+
+    .footer_left {
+        display: none;
+    }
+
+    .footer_right {
+        width: 600px;
+    }
+    .footer_right_t ul li {
+        padding-right: 30px;
+    }
+   
+    .footer_right_list li ul {
+        padding-right: 20px;
+    }
+    .footer_right_list li ul li h4 {
+        font-size: 16px;
+    }
+    .footer_right_list li ul li span {
+        font-size: 18px;
+    }
+    .footer_right_list li ul li p {
+        font-size: 11px;
+    }
+}
